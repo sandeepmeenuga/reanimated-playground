@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "reanimated-playground",
+    "slug": "reanimated-playground",
+    "android": {
+      "package": "com.mesameen.reanimatedplayground"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f00c8e73-ad34-43f4-bf90-8a710ec1602a"
+      }
+    }
+  }
+}
